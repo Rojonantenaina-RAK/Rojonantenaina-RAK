@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rojo (My colleagues also call me : Mr. Crayon ✏️)
+- 👋 Hi, I’m @Nantenaina (My colleagues also call me : @Rojo)
 
 ## About Me
-- 👀 I’m interested in ✨UX/UI Design, ✨application Development (FinTech, E-commerce, productivity, 3D games), ✨Cybersecurity, ✨electronics too, and the ✨DevSecOps profession.
+- 👀 I’m interested in ✨application Development (FinTech, E-commerce, productivity, 3D games), ✨Cybersecurity, and the ✨DevSecOps profession.
 
 ## What I'm Currently Doing
 - 🌱 Currently, I'm learning computer science : Software engineering + Systems and Networks Administration. I'm looking to deepen my knowledge in the field of 💖DevOps and explore new perspectives 👐.
