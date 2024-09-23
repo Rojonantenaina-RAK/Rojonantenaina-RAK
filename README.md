@@ -8,6 +8,6 @@
 
 ## How to Reach Me
 - 📫 You can contact me via:
-🟣 My email address: rojo.rak39@gmail.com
-🟣 My WhatsApp & Telegram: +261386147800
-🟣 My LinkedIn profile: https://www.linkedin.com/in/rojonantenaina-rakotoarivelo-35699822b/
+* My email address: rojo.rak39@gmail.com
+* My WhatsApp & Telegram: +261386147800
+* My LinkedIn profile: https://www.linkedin.com/in/rojonantenaina-rakotoarivelo-35699822b/
