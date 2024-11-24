@@ -1,4 +1,4 @@
-# 👋 Call me **@Rojo** or **@Nante** (my nickname)
+# 👋 Call me **@Rojo** or **@Nanteh** (my nickname)
 
 ## About Me
 - 22 years old
