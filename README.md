@@ -1,13 +1,16 @@
-- 👋 Hi, I’m @Nanteh (My colleagues also call me : @Rojo)
+# 👋 Call me **@Rojo** or **@Nante** (my nickname)
 
 ## About Me
-- 👀 I’m in the field of ✨application Development (FinTech,E-commerce,Productivity apps,Games), and the ✨DevOps profession.
+- 22 years old
+- **DevOps** apprentice
+- **Fullstack JavaScript developer** freelancer
 
-## What I'm Currently Doing
-- 🌱 Currently, I'm learning computer science : Software engineering + Systems and Networks Administration. I'm looking to deepen my knowledge in the field of 💖DevOps and explore new perspectives 👐.
+### Skills & Technologies
+- HTML, CSS, JavaScript
+- Bulma, Tailwind CSS, GSAP, TypeScript, React
+- Node.js, MERN stack, MySQL, PostgreSQL
 
-## How to Reach Me
-- 📫 You can contact me via:
-* My email address: rojo.rak39@gmail.com
-* My WhatsApp & Telegram: +261386147800
-* My LinkedIn profile: https://www.linkedin.com/in/rojonantenaina-rakotoarivelo-35699822b/
+## How to Reach Me 📫
+- **Email**: [rojo.rak39@gmail.com](mailto:rojo.rak39@gmail.com)
+- **WhatsApp & Telegram**: +261386147800
+- **LinkedIn**: [My LinkedIn profile](https://www.linkedin.com/in/rojonantenaina-rakotoarivelo-35699822b/)
