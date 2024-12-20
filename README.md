@@ -8,7 +8,7 @@
 ### Skills & Technologies
 - HTML, CSS, JavaScript
 - Bulma, Tailwind CSS, GSAP, TypeScript, React
-- Node.js, MERN stack, MySQL, PostgreSQL
+- Node.js, MERN stack, MySQL, PostgreSQL, MongoDB
 
 ## How to Reach Me 📫
 - **Email**: [rojo.rak39@gmail.com](mailto:rojo.rak39@gmail.com)
